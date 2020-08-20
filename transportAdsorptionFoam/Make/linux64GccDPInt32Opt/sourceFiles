@@ -1,0 +1,4 @@
+SOURCE = \
+transportAdsorptionFoam.C \
+
+# sources
