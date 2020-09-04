@@ -1,4 +1,7 @@
 # transportAdsorptionFoam
+
+![alt text](https://github.com/Rdfing/transportAdsorptionFoam/blob/master/sample_1k_sphere_DOF_10M.png?raw=true)
+
 A solver for species transport and surface adsorption simulations.
 
 For the bulk transport of the chemical species, 
