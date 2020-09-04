@@ -22,4 +22,5 @@ The solver is tested on OpenFOAM-v1912
 
 Further detailes are provided in the incoming manuscript.
 
+Lumped version of the solver is coming too
  
