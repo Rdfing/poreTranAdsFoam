@@ -15,11 +15,11 @@ The surface reaction of adsorption (<img src="https://render.githubusercontent.c
 
 <img src="https://render.githubusercontent.com/render/math?math=N_{des}=k_{des}Y_{j}^{ads}.">
 
-Sucess of the application of the model requires inverse modeling of the kinetic parameters of the adsorption.
+The success of the application of the model requires inverse modeling of the kinetic parameters of the adsorption.
 
-Further detailes are provided in the incoming manuscript.
+Further details are provided in the incoming manuscript.
 
-Lumped version of the solver is coming too
+A lumped version of the solver is coming too
 
 ## Prerequisites
 OpenFOAM-v1912 
@@ -33,6 +33,6 @@ University of Florida
 XXX 
 
 ## Disclaimer
-This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software and owner of the OPENFOAM®  and OpenCFD®  trade marks.
+This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software and owner of the OPENFOAM®  and OpenCFD®  trademarks.
 
  
