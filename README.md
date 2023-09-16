@@ -1,4 +1,5 @@
-# transportAdsorptionFoam
+# poreTranAdsFoam
+
 A solver for pore-scale species transport and surface adsorption simulations.
 ![alt text](https://github.com/Rdfing/transportAdsorptionFoam/blob/master/sample_1k_sphere_DOF_10M.png?raw=true)
 
